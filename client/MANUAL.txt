@@ -1,0 +1,10 @@
+How to set up a server and play on LAN.
+
+1. Start server.exe inside the server folder.
+2. Check/write down the IP of the computer where the server was started.
+   To do this, type in "ipconfig" inside the command prompt for windows, or 
+   "ifconfig" inside the terminal for Linux.
+3. Start the client.exe inside the game folder on the computers you want
+   to play on.
+4. Connect to the ip of the server after clicking on "Play game".
+5. Enjoy the game!
